@@ -1,2 +1,1 @@
-# secprog-assignments
-Secure programming assignments and practical implementations.
+Kanwaljit Singh ,Äî USD MS Cybersecurity Engineering
